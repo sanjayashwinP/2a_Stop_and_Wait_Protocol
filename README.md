@@ -1,5 +1,5 @@
 # 2a_Stop_and_Wait_Protocol
-## NAME:SANJAY AHWIN P
+## NAME:SANJAY ASHWIN P
 ## REG NO:212223040181
 ## AIM 
 To write a python program to perform stop and wait protocol
